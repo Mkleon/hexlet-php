@@ -1,6 +1,6 @@
 <?php
 
-namespace Mkleon\Hexphp\Runner;
+namespace Hexphp\Runner;
 
 function run()
 {
