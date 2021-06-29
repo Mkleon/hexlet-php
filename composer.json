@@ -7,5 +7,7 @@
             "email": "kirillo81@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
